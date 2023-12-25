@@ -31,6 +31,7 @@ const findIndices = (num, arr) => {
 };
 
 // // test calls
+// console.log(findIndices(5, [0, 1, 4, 5]));
 // console.log(findIndices(5, [-55, -5, 10, 20]));
 // console.log(findIndices(4, ['2', 2, 2, 3]));
 // console.log(findIndices("4", [1, 2, 4, 5]));
